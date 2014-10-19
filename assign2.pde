@@ -1,4 +1,4 @@
-// global variables
+// global variables1
 float frogX, frogY, frogW, frogH, frogInitX, frogInitY ,frogCY , frogCX;
 float leftCar1X, leftCar1Y, leftCar1W, leftCar1H;//car1
 float leftCar2X, leftCar2Y, leftCar2W, leftCar2H;//car2
